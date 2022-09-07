@@ -17,4 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Demo
+<p align="center">
+    <img src="assets/images/showcase.jpg"
+        alt="Home Screen"
+    />
+</p>
 
